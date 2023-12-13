@@ -8,5 +8,6 @@ namespace MinhThuan.models
 {
     internal class User
     {
+        public int Email { get; set; }
     }
 }
